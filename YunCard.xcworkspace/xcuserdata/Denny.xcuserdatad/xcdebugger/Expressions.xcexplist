@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[JJChongzhiViewController onButtonPressed:]:JJChongzhiViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.moneyStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__30-[YCPayViewController refresh]_block_invoke:YCPayViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "param">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCAppCenterController clikeScrollViewCallBack:index:]:YCAppCenterController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lunboArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[AFNManager postObject:apiName:modelName:requestSuccessed:requestFailure:]:AFNManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlStr">
+            </PersistentString>
+            <PersistentString
+               value = "dict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__75+[AFNManager postObject:apiName:modelName:requestSuccessed:requestFailure:]_block_invoke:AFNManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCDianFeiViewController send]:YCDianFeiViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[YCUserModel currentUser].cardNo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[AFLoginController doneBtnDidTap:]_block_invoke:AFLoginController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "YCUserModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__75+[AFNManager handleResponseData:modelName:requestSuccessed:requestFailure:]_block_invoke:AFNManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCTradeHisModel timeString]:DataModels.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tranDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCSchoolShopViewController tableView:didSelectRowAtIndexPath:]:YCSchoolShopViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

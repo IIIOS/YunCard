@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/YCAppDelegate.m \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/YCAppDelegate.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/Home/YCTabBarViewController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/YunPay/YCPayViewController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/External/lib/APService.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/AppCenter/YCAppCenterController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/Utilities/YCNetwortUsage.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Bugtags/Bugtags.framework/Headers/Bugtags.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Bugtags/Bugtags.framework/Headers/BTGConstants.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/AppCenter/YCNotiHisViewController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/Base/BasePullToRefreshTableViewController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/Base/BasePullToRefreshViewController.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/External/MJRefresh/MJRefresh.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/External/MJRefresh/MJRefreshFooterView.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/External/MJRefresh/MJRefreshBaseView.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/External/MJRefresh/MJRefreshHeaderView.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/Views/Common/YSLoadingView.h \
+  /Users/lwj/Desktop/YunCard/YunCard/YiSheYing/ViewControllers/Common/GAWebViewController.h

@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B3D0FB24208DF34E6ECE6FF30AC7499004BB8DD1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f9e1e03c-1a15-443d-91a6-d2e7aecad9e0++4768" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f9e1e03c-1a15-443d-91a6-d2e7aecad9e0++4768" : 0,
+    "B3D0FB24208DF34E6ECE6FF30AC7499004BB8DD1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FCCFEC4E-1411-474B-8149-D211B4813E8D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f9e1e03c-1a15-443d-91a6-d2e7aecad9e0++4768" : "YunCard\/YunCard\/YiSheYing\/External\/YMTableViewController\/RectUtil\/",
+    "B3D0FB24208DF34E6ECE6FF30AC7499004BB8DD1" : "YunCard\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "YunCard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "YunCard\/YunCard.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IIIOS\/YunCard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3D0FB24208DF34E6ECE6FF30AC7499004BB8DD1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/562812743%40qq.com@svn.sinaapp.com\/abcmedical",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f9e1e03c-1a15-443d-91a6-d2e7aecad9e0++4768"
+    }
+  ]
+}

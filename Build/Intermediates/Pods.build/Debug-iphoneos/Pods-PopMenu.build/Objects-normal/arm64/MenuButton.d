@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/PopMenu/PopMenu/MenuButton.m \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/PopMenu/PopMenu/MenuButton.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Public/pop/POP.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPDefines.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimatableProperty.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimationTracer.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimationEvent.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPGeometry.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimationExtras.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPSpringAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPPropertyAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPAnimator.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPBasicAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPCustomAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPDecayAnimation.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/Headers/Build/pop/POPLayerExtras.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/PopMenu/PopMenu/MenuItem.h \
+  /Users/lwj/Desktop/YunCard/YunCard/Pods/PopMenu/PopMenu/GlowImageView.h

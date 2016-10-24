@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__40-[YCTimetableViewController viewDidLoad]_block_invoke:YCTimetableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[YCXiaoWuViewController viewDidLoad]_block_invoke_2:YCXiaoWuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "param">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[YCTestViewController viewDidLoad]_block_invoke:YCTestViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[YCCardView moneyLabel]:YCCardView.m">
+      </ContextState>
+      <ContextState
+         contextName = "__57-[YCSchoolShopDetailViewcontroller surePayButtonPressed:]_block_invoke:YCSchoolShopDetailViewcontroller.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyTestModel initWithDic:]:MyTestModel.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[AFNManager postObject:apiName:modelName:requestSuccessed:requestFailure:]:AFNManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "paramDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCCardView bindDataWithModel:]:YCCardView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.moneyLabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCSchoolShopDetailViewcontroller viewDidLoad]:YCSchoolShopDetailViewcontroller.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.discount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[YCTestViewController tableView:cellForRowAtIndexPath:]:YCTestViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__37-[YCXiaoWuViewController viewDidLoad]_block_invoke:YCXiaoWuViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
